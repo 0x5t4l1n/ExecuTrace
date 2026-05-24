@@ -1,30 +1,29 @@
-# Security Policy
+## Security Policy
 
-## Supported Versions
+### Reporting Vulnerabilities
 
-We currently support security updates for the latest stable release on PyPI:
+If you discover any security vulnerabilities, please report them responsibly.
 
-- `exectrace-workflow` latest version
+Send detailed vulnerability reports to:
 
-## Reporting a Vulnerability
+Email: w4nn4d133@gmail.com
 
-Please do **not** open a public issue for security bugs.
+OpenPGP Fingerprint:
+`DEBE5591C54E947279C14A6BF53D272DA9ADAF98`
 
-Use one of these methods:
+Public Key:
+https://keys.openpgp.org/vks/v1/by-fingerprint/DEBE5591C54E947279C14A6BF53D272DA9ADAF98
 
-1. GitHub Security Advisories (preferred):
-   - Go to Security tab in the repository
-   - Click Advisories
-   - Start a private vulnerability report
-2. If advisories are unavailable, open a private report via repository maintainers.
+Alternatively, you may submit your report through our official advisory channel (if available).
 
-## Disclosure Timeline
+### Guidelines for Reporting
 
-1. We acknowledge reports within 72 hours.
-2. We validate and reproduce the issue.
-3. We prepare a fix and release patch.
-4. We publish an advisory with credit (if requested).
+Please include:
 
-## Hall of Fame
+- A clear description of the vulnerability
+- Steps to reproduce the issue
+- Proof-of-Concept (PoC), if possible
+- The potential security impact
+- Affected versions/components
 
-Responsible reporters are credited on the project website under Security Hall of Fame after a fix is shipped.
+We appreciate responsible disclosure and will work to validate and address legitimate security issues promptly.
