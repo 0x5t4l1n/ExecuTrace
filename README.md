@@ -17,6 +17,8 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyPI](https://img.shields.io/pypi/v/exectrace-workflow.svg)](https://pypi.org/project/exectrace-workflow/#description)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-purple.svg)](#)
+[![Self-Hosted Git](https://img.shields.io/badge/Self--Hosted-Gitea-green?style=flat-square\&logo=gitea\&logoColor=white)](https://git.w4nn4d13.tech/0x5t4l1n/ExecuTrace)
+
 
 </div>
 
